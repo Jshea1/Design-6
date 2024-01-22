@@ -1,9 +1,10 @@
 # Design-6
 ## Assignments
 ## Team Project Progression
-**bold text**
 
-*italicized text*
+**John Shea**
+
+*Computer Engineering Student*
 
 > blockquote
 
@@ -21,4 +22,4 @@
 
 [My LinkedIn Page](https://www.linkedin.com/in/john-shea-a608351a6/)
 
-![alt text](NYCPIC.jpg)
+![NYC Picture](NYCPIC.jpg)
