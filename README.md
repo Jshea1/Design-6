@@ -29,4 +29,4 @@
 
 [My LinkedIn Page](https://www.linkedin.com/in/john-shea-a608351a6/)
 
-![NYC Picture](NYCPIC.jpg)
+![Mountain Picture](MountainPic.jpg)
