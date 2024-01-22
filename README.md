@@ -20,4 +20,5 @@
 ---
 
 [My LinkedIn Page](https://www.linkedin.com/in/john-shea-a608351a6/)
+
 ![alt text](image.jpg)
