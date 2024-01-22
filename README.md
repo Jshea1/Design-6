@@ -2,7 +2,9 @@
 ## Assignments
 ## Team Project Progression
 **bold text**
+
 *italicized text*
+
 > blockquote
 
 1. First item
