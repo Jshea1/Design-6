@@ -1,3 +1,3 @@
-### Design-6
+# Design-6
 ## Assignments
 ## Team Project Progression
