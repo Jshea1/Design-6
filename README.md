@@ -1,11 +1,11 @@
 # Design-6
-## Project Group 9
+## 2024S CPE 322-A 
 
 **John Shea**
 
 *Computer Engineering Student*
 
-> 2024S CPE 322-A
+> Project Group 9
 
 **Prior Courses**
 1. ENGR 212
