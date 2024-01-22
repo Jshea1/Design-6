@@ -8,15 +8,21 @@
 
 > 2024S CPE 322-A
 
-1. First item
-2. Second item
-3. Third item
+**Prior Courses**
+1. ENGR 212
+2. CPE 390
+3. CPE 360
 
-- First item
-- Second item
-- Third item
+**Lesson History**
+- Lesson 0
+- Lesson 1
+- Lesson 2
 
-`code`
+
+**Hello World in C++**
+`int main() {
+    std::cout << "Hello World!";
+    return 0;`
 
 ---
 
