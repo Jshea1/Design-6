@@ -24,11 +24,13 @@
     int main() {
     std::cout << "Hello World!";
    
-    return 0;} `
+    return 0;} 
+    
+    `
 
 ---
 
-This is my linked in page: [My LinkedIn Page](https://www.linkedin.com/in/john-shea-a608351a6/)
+This is my LinkedIn page: [My LinkedIn Page](https://www.linkedin.com/in/john-shea-a608351a6/)
 
 This is a picture of a mountain:
 ![Mountain Picture](MountainPic.jpg)
