@@ -19,7 +19,6 @@
 
 
 **Sample Code: Hello World in C++**
-
 ` 
 
     int main() {
