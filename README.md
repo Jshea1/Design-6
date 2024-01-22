@@ -28,4 +28,5 @@
 
 This is my linked in page: [My LinkedIn Page](https://www.linkedin.com/in/john-shea-a608351a6/)
 
+This is a picture of a mountain:
 ![Mountain Picture](MountainPic.jpg)
