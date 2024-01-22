@@ -20,7 +20,9 @@
 
 **Sample Code: Hello World in C++**
 
-`int main() {
+`#include <iostream>
+
+    int main() {
     std::cout << "Hello World!";
    
     return 0;}`
