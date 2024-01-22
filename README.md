@@ -1,6 +1,5 @@
 # Design-6
-## Assignments
-## Team Project Progression
+## Project Group 9
 
 **John Shea**
 
