@@ -6,7 +6,7 @@
 
 *Computer Engineering Student*
 
-> blockquote
+> 2024S CPE 322-A
 
 1. First item
 2. Second item
