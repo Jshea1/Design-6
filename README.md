@@ -18,10 +18,12 @@
 - Lesson 2
 
 
-**Hello World in C++**
+**Sample Code: Hello World in C++**
 
 `int main() {
+    
     std::cout << "Hello World!";
+   
     return 0;}`
 
 ---
