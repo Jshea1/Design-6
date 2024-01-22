@@ -21,7 +21,6 @@
 **Sample Code: Hello World in C++**
 
 `
-
     int main() {
     std::cout << "Hello World!";
    
