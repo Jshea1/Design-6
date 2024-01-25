@@ -13,7 +13,7 @@
 3. CPE 360
 
 **Lesson History**
-- Lesson 0
+- Lesson 0 (completed)
 - Lesson 1
 - Lesson 2
 - (To be continued)
@@ -29,7 +29,9 @@
 
 ---
 
+![Portrait](selfPortrait.jpg)
+
 This is my LinkedIn page: [My LinkedIn Page](https://www.linkedin.com/in/john-shea-a608351a6/)
 
-This is a picture of a mountain:
-![Portrait](Portrait.jpg)
+
+
