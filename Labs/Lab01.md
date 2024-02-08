@@ -1,8 +1,8 @@
 # Lab01
 ----
 ## Half Adder
-![Half Adder terminal](msyshalfadder.png)
-![Half Adder Example](halfadderexample.png)
+![Half Adder terminal](images/msyshalfadder.png)
+![Half Adder Example](images/halfadderexample.png)
 ## D Flip-Flop
-![D Flip-Flop terminal](ddflopmsys.png)
-![D Flip-Flop](ddflop.png)
+![D Flip-Flop terminal](images/ddflopmsys.png)
+![D Flip-Flop](images/ddflop.png)
