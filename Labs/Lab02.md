@@ -1,4 +1,4 @@
-#Lab02
+# Lab02
 ----
 ![msys terminal](../images/pic1.png)
 ![msys terminal](../images/pic2.png)
