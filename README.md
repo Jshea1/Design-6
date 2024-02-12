@@ -14,8 +14,11 @@
 
 **Lesson History**
 - Lesson 0 (completed)
-- Lesson 1
-- Lesson 2
+- Lesson 1 (completed)
+- Lesson 2 (completed)
+- Lesson 3
+- Lesson 4
+- Lesson 5
 - (To be continued)
 
 
