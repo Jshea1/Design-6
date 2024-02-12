@@ -32,7 +32,7 @@
 
 ---
 
-![Portrait](selfPortrait.jpg)
+![Portrait](images/selfPortrait.jpg)
 
 This is my LinkedIn page: [My LinkedIn Page](https://www.linkedin.com/in/john-shea-a608351a6/)
 
