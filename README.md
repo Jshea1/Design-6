@@ -16,9 +16,12 @@
 - Lesson 0 (completed)
 - Lesson 1 (completed)
 - Lesson 2 (completed)
-- Lesson 3
-- Lesson 4
-- Lesson 5
+- Lesson 3 (completed)
+- Lesson 4 (completed)
+- Lesson 5 (completed)
+- Lesson 6
+- Lesson 7
+- Lesson 8
 - (To be continued)
 
 
