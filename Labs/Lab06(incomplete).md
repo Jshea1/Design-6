@@ -4,8 +4,7 @@
 ![msys terminal](../images/Lab6.02.png)
 ![msys terminal](../images/lab6.03.png)
 
-**Lab 6B: Pystache needed**
-
-
+**Lab 6B: Pystache**
+![msys terminal](../images/lab6.04.png)
 
 
